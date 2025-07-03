@@ -11,7 +11,7 @@
 
 </div>
 
-- 🔭 I’m currently working on [Tarzaim](https://yatzaim.com) — a smart travel platform that helps users easily plan, book, and manage their trips with personalized recommendations and seamless booking options.
+- 🔭 I’m currently working on [Tarzaim](https://tarzaim.com) — a smart travel platform that helps users easily plan, book, and manage their trips with personalized recommendations and seamless booking options.
 
 - 📝 I regularly write articles on [https://tarzaim.com/blog/](https://tarzaim.com/blog/)
 
