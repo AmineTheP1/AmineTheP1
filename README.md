@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amine Aichane</h1>
-<h3 align="center">A passionate software developer from Morocco, building smart and scalable solutions.</h3>
+<h3 align="center">A passionate software developer and AI enthusiast from Morocco, building smart and scalable solutions.</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/amine-aichane/" target="_blank">
